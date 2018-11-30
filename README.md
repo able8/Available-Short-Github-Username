@@ -20,7 +20,7 @@
 ### 注意
 - txt文件里是1.1w个用户名，但大概测试发现只有一半左右是可以使用的！
 
-### 脚本摘要
+### 脚本摘要
 
 ```bash
 for i in 1 2 3 4 5 6 7 8 9 0 a b c d e f g h i j k l m n o p q r s t u v w x y z
